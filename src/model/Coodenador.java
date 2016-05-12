@@ -1,7 +1,7 @@
 package model;
 
 import java.util.List;
-
+//Aqui a classe coordenador foi extends funcionario//
 public class Coodenador extends Funcionario {
 	
 	private List<String> projetosQueGerencia;
