@@ -5,7 +5,7 @@ import java.util.List;
 public class Coodenador extends Funcionario {
 	
 	private List<String> projetosQueGerencia;
-
+//programa//
 	public List<String> getProjetos() {
 		return projetosQueGerencia;
 	}
